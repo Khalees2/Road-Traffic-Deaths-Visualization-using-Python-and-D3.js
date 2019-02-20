@@ -1,0 +1,168 @@
+code,Country,Four-Wheelers,Two-Wheelers,Cyclists,Pedestrians,Others,Estimated road traffic death rate per 100 000 population,Pedestrians_Rank
+OCPLW,Palau,0,0,0,100,0,4.8,1
+OCWSM,Samoa,0,0,0,76.5,23.5,15.8,2
+AFSYC,Seychelles,25,0,0,75,0,8.6,3
+OCKIR,Kiribati,0,0,33.3,66.7,0,2.9,4
+OCFJI,Fiji,39,0,2.4,58.5,0,5.8,5
+OCVUT,Vanuatu,44.4,0,0,55.6,0,16.6,6
+EUAND,Andorra,0,50,0,50,0,7.6,7
+AFMWI,Malawi,32.5,1.3,17.2,49.1,0,35,8
+AFKEN,Kenya,34.3,4.9,14.4,46.4,0,29.1,9
+ASLBN,Lebanon,0,0,0,43.3,56.7,22.6,10
+AFSTP,Sao Tome and Principe,25,32.1,0,42.9,0,31.1,11
+EUBLR,Belarus,49.2,0,7.9,41.6,1.2,13.7,12
+AFGHA,Ghana,24.2,14,3.7,41.5,16.7,26.2,13
+AFUGA,Uganda,7.2,30.6,7.6,40.2,14.5,27.4,14
+AFERI,Eritrea,25.7,0,7.4,39.9,27,24.1,15
+EULVA,Latvia,42,7.4,7.4,39.8,3.4,10,16
+EUROU,Romania,44,4.7,8.5,39,3.8,8.7,17
+ASKOR,Republic of Korea,33.2,16.3,5.5,38.9,6.1,12,18
+SACHL,Chile,36.1,7,7.6,38.9,10.4,12.4,19
+EULTU,Lithuania,43,7.4,7,37.5,4.7,10.6,20
+OCTON,Tonga,62.5,0,0,37.5,0,7.6,21
+AFZMB,Zambia,48.4,2.2,11.6,36.4,0,24.7,22
+ASJPN,Japan,32.4,17.4,13.7,36.2,0.3,4.7,23
+ASARM,Armenia,54.7,0,0.3,35.8,9.2,18.3,24
+ASJOR,Jordan,64.3,0,0,35.7,0,26.3,25
+AFAGO,Angola,0,1.9,0,35.4,62.7,26.9,26
+SAGUY,Guyana,25,18.8,11.6,34.8,9.8,17.3,27
+AFMUS,Mauritius,22.8,30.9,9.6,34.6,2.2,12.2,28
+EUPOL,Poland,43.1,9.4,9.1,34,4.4,10.3,29
+AFZAF,South Africa,66.6,0,0,33.4,0,25.1,30
+AFSDN,Sudan,0,0,0,33.4,66.6,24.3,31
+ASMDV,Maldives,16.7,16.7,16.7,33.3,16.7,3.5,32
+ASTJK,Tajikistan,62.5,0,4.2,33.3,0,18.8,33
+AFNER,Niger,67,0,0,33,0,26.4,34
+ASISR,Israel,41.2,14.1,4.7,32.9,7.2,3.6,35
+EUMDA,Republic of Moldova,41.1,11.9,6,32.8,8.3,12.5,36
+SABOL,Bolivia (Plurinational State of),56.1,9.9,0.9,32.5,0.6,23.2,37
+ASBGD,Bangladesh,41.5,10.8,1.8,32.2,13.7,13.6,38
+AFNAM,Namibia,61.7,0.6,0.6,32.1,4.9,23.9,39
+ASKGZ,Kyrgyzstan,67.3,0,1.1,31.6,0.1,22,40
+ASBHR,Bahrain,59.3,3.5,5.8,31.4,0,8,41
+EUALB,Albania,50.8,13.2,4.1,31.2,0.7,15.1,42
+AFTZA,United Republic of Tanzania,35,21.7,11.2,31.2,0.9,32.9,43
+ASMNG,Mongolia,47,19.3,0.2,30.6,2.9,21,44
+ASAZE,Azerbaijan,62.1,0.5,0.3,30.5,6.7,10,45
+AFLSO,Lesotho,56.9,1.2,0.6,30.3,11,28.2,46
+EUSVK,Slovakia,45.8,8.4,6.8,30.3,8.8,6.6,47
+SAECU,Ecuador,2.2,6.9,0.5,30,60.3,20.1,48
+ASLKA,Sri Lanka,5.7,40.8,11,29.8,12.7,17.4,49
+SACOL,Colombia,7.6,44.3,5,29.3,13.8,16.8,50
+AFEGY,Egypt,48.6,0.6,6.3,29.2,15.3,12.8,51
+OCPNG,Papua New Guinea,48.4,0,0,29,22.6,16.8,52
+EURUS,Russian Federation,57.3,4.3,1.7,28.9,7.8,18.9,53
+EUEST,Estonia,50.6,6.2,11.1,28.4,3.7,7,54
+ASQAT,Qatar,71.6,0,0,28.4,0,15.2,55
+AFTUN,Tunisia,48.6,20.5,2.5,28.2,0,24.4,56
+EUMLT,Malta,44.4,27.8,0,27.8,0,5.1,57
+AFMLI,Mali,18.7,20.4,0,27.4,33.5,25.6,58
+EUBIH,Bosnia and Herzegovina,52.6,9.1,11,27.3,0,17.7,59
+AFBWA,Botswana,67.6,0,0,27.3,5.1,23.6,60
+EUSRB,Serbia,46.2,8.6,9.1,26.9,9.2,7.7,61
+ASSGP,Singapore,17.5,45.6,9.4,26.9,0.6,3.6,62
+AFLBY,Libya,70.8,1.5,1.3,26.4,0,23.8,63
+AFMAR,Morocco,35.9,21.2,5.9,26.2,10.9,20.8,64
+ASTUR,Turkey,25,4.3,0.9,26.2,43.6,8.9,65
+ASARE,United Arab Emirates,57.3,2.6,0.3,26.1,13.7,10.9,66
+ASCHN,China,19.2,26.8,8.1,26.1,19.8,18.8,67
+ASMMR,Myanmar,26,23,9,26,16,20.3,68
+EUCHE,Switzerland,38.3,20.4,6.3,25.7,9.3,3.3,69
+EUHUN,Hungary,43,13.9,11.5,24.9,6.8,7.7,70
+EUCZE,Czechia,47.1,11,11.3,24.8,5.8,6.1,71
+ASGEO,Georgia,44.7,3.1,0.6,24.3,27.2,11.8,72
+ASTKM,Turkmenistan,74.7,0,1.9,23.4,0,17.4,73
+SAPER,Peru,6.9,1,0.3,23.3,68.4,13.9,74
+ASOMN,Oman,64.3,2.3,2.6,23.2,7.6,25.4,75
+ASIRN,Iran (Islamic Republic of),41.3,21.5,0.7,23.2,13.4,32.1,76
+EUGBR,United Kingdom of Great Britain and Northern Ireland,46.3,19.3,6.4,22.9,5.2,2.9,77
+EUPRT,Portugal,44.3,20.4,4.6,22.6,8.2,7.8,78
+ASKAZ,Kazakhstan,60.5,2.3,1.1,22.5,13.5,24.2,79
+EUESP,Spain,46.7,21.1,4.1,22.5,5.6,3.7,80
+AFBEN,Benin,15.5,55.8,2.3,21.1,5.3,27.7,81
+ASIDN,Indonesia,6,36,2,21,35,15.3,82
+SAPRY,Paraguay,23.4,54.1,0.7,20.7,1.1,20.7,83
+EUMNE,Montenegro,44.6,9.5,1.4,20.3,24.3,11.9,84
+SABRA,Brazil,23.5,28,3.3,19.7,25.5,23.4,85
+ASPHL,Philippines,25.3,52.5,2,19,1.1,10.5,86
+EUHRV,Croatia,54.3,17.1,6.3,18.8,3.5,9.2,87
+SASUR,Suriname,35.5,42.1,3.9,18.4,0,19.1,88
+EUCYP,Cyprus,38.6,34.1,4.5,18.2,4.5,5.2,89
+EUBGR,Bulgaria,62.9,8.7,5.2,18.1,5.2,8.3,90
+EUAUT,Austria,42.4,21.5,11.2,18,5.9,5.4,91
+EUDNK,Denmark,50.3,13.6,17.3,17.8,1,3.5,92
+EUGRC,Greece,43.9,32.5,2.1,17.2,4.3,9.1,93
+EUDEU,Germany,47.6,19.2,10.6,16.7,6,4.3,94
+EUIRL,Ireland,65.4,13.8,2.7,16.5,1.6,4.1,95
+AFZWE,Zimbabwe,20.5,6.2,3.6,16.5,53.3,28.2,96
+EUITA,Italy,45.4,25.5,7.4,16.2,5.5,6.1,97
+EUSWE,Sweden,57.3,16.5,5.4,16.2,4.6,2.8,98
+EUSVN,Slovenia,45.6,16.8,12.8,16,8.8,6.4,99
+SAURY,Uruguay,25.9,52.9,2.8,15.7,2.6,16.6,100
+NACAN,Canada,66.6,8.4,2.5,15.7,6.7,6,101
+EUFRA,France,49.3,24.2,4.5,14.2,7.8,5.1,102
+NAUSA,United States of America,64.4,14.8,2.2,14.1,4.5,10.6,103
+EUBEL,Belgium,51.9,15.9,10.1,13.7,8.4,6.7,104
+EUFIN,Finland,62.4,11.2,7.8,13.2,5.4,4.8,105
+OCAUS,Australia,64.2,17.9,4.2,13.2,0.6,5.4,106
+ASKHM,Cambodia,8.5,70.4,2.3,12.7,6.1,17.4,107
+OCNZL,New Zealand,65.7,15.4,3.1,11.8,3.9,6,108
+EULUX,Luxembourg,66.7,17.8,0,11.1,4.4,8.7,109
+SAARG,Argentina,88,0,2,10.1,0,13.6,110
+EUNLD,Netherlands,36.5,13.5,32.3,9.8,7.9,3.4,111
+EUNOR,Norway,61,12.8,5.3,9.6,11.2,3.8,112
+ASLAO,Lao People's Democratic Republic,18.7,66.9,2.7,9.6,2.1,14.3,113
+ASIND,India,17.2,33.9,3.5,9.1,36.2,16.6,114
+ASTHA,Thailand,13,72.8,2.3,8.1,3.8,36.2,115
+EUISL,Iceland,80,6.7,0,6.7,6.7,4.6,116
+ASMYS,Malaysia,23.7,62.1,2.2,6.6,5.5,24,117
+AFCOD,Democratic Republic of the Congo,70.9,14.9,0,4.9,9.1,33.2,118
+ASBTN,Bhutan,94.9,1.7,0,3.4,0,15.1,119
+OCCOK,Cook Islands,40,60,0,0,0,24.2,120
+AFCOG,Congo,0,0,0,0,0,26.4,121
+OCTLS,Timor-Leste,0,0,0,0,0,16.6,122
+AFTGO,Togo,0,0,0,0,0,31.1,123
+AFTCD,Chad,0,0,0,0,0,24.1,124
+ASPRK,Democratic People's Republic of Korea,0,0,0,0,0,20.8,125
+ASSYR,Syrian Arab Republic,0,0,0,0,0,20,126
+AFCOM,Comoros,0,0,0,0,0,28,127
+ASPAK,Pakistan,0,0,0,0,0,14.2,128
+AFCAF,Central African Republic,0,0,0,0,0,32.4,129
+EUUKR,Ukraine,0,0,0,0,0,10.6,130
+AFDJI,Djibouti,0,0,0,0,0,24.7,131
+AFCPV,Cabo Verde,0,0,0,0,0,26.1,132
+AFBDI,Burundi,0,0,0,0,0,31.3,133
+AFBFA,Burkina Faso,0,0,0,0,0,30,134
+ASUZB,Uzbekistan,0,0,0,0,0,11.2,135
+ASBRN,Brunei Darussalam,0,0,0,0,0,8,136
+SAVEN,Venezuela (Bolivarian Republic of),0,0,0,0,0,45.1,137
+ASVNM,Viet Nam,0,0,0,0,0,24.5,138
+ASYEM,Yemen,0,0,0,0,0,21.5,139
+AFDZA,Algeria,0,0,0,0,0,23.8,140
+AFCMR,Cameroon,0,0,0,0,0,27.6,141
+AFGAB,Gabon,0,0,0,0,0,22.9,142
+AFGNQ,Equatorial Guinea,0,0,0,0,0,22.9,143
+EUSMR,San Marino,0,100,0,0,0,3.2,144
+AFNGA,Nigeria,0,0,0,0,0,20.5,145
+ASNPL,Nepal,0,0,0,0,0,17,146
+AFMOZ,Mozambique,0,0,0,0,0,31.6,147
+EUMCO,Monaco,0,0,0,0,0,0,148
+OCFSM,Micronesia (Federated States of),0,0,0,0,0,1.9,149
+AFMRT,Mauritania,0,0,0,0,0,24.5,150
+OCMHL,Marshall Islands,33.3,66.7,0,0,0,5.7,151
+AFMDG,Madagascar,0,0,0,0,0,28.4,152
+AFRWA,Rwanda,0,0,0,0,0,32.1,153
+AFLBR,Liberia,0,0,0,0,0,33.7,154
+ASSAU,Saudi Arabia,0,0,0,0,0,27.4,155
+AFETH,Ethiopia,0,0,0,0,0,25.3,156
+AFSEN,Senegal,0,0,0,0,0,27.2,157
+ASKWT,Kuwait,0,0,0,0,0,18.7,158
+ASIRQ,Iraq,0,0,0,0,0,20.2,159
+AFSLE,Sierra Leone,0,0,0,0,0,27.3,160
+AFGNB,Guinea-Bissau,0,0,0,0,0,27.5,161
+OCSLB,Solomon Islands,0,0,0,0,0,19.2,162
+AFSOM,Somalia,0,0,0,0,0,25.4,163
+AFGIN,Guinea,0,0,0,0,0,27.3,164
+AFSSD,South Sudan,0,0,0,0,0,27.9,165
+AFGMB,Gambia,0,0,0,0,0,29.4,166
+ASAFG,Afghanistan,0,0,0,0,0,15.5,167

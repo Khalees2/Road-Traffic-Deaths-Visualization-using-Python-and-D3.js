@@ -1,0 +1,208 @@
+,name,code
+0,Ireland,EUIRL
+1,Iceland,EUISL
+2,Azerbaijan,ASAZE
+3,Armenia,ASARM
+5,Australia,OCAUS
+6,Afghanistan,ASAFG
+7,Albania,EUALB
+8,Germany,EUDEU
+9,Antarctica,ANATA
+11,Andorra,EUAND
+12,Angola,AFAGO
+14,Uruguay,SAURY
+15,Uzbekistan,ASUZB
+16,Uganda,AFUGA
+17,Ukraine,EUUKR
+18,Ethiopia,AFETH
+19,Eritrea,AFERI
+20,Spain,EUESP
+21,Estonia,EUEST
+22,Israel,ASISR
+23,Ecuador,SAECU
+24,Indonesia,ASIDN
+25,Iran (Islamic Republic of),ASIRN
+26,Italy,EUITA
+27,French Southern Territories,ANATF
+28,Argentina,SAARG
+29,Jordan,ASJOR
+30,United Arab Emirates,ASARE
+31,Russian Federation,EURUS
+32,Bahrain,ASBHR
+33,Brazil,SABRA
+34,Portugal,EUPRT
+35,Bosnia and Herzegovina,EUBIH
+36,Montenegro,EUMNE
+37,Algeria,AFDZA
+39,Syrian Arab Republic,ASSYR
+40,Denmark,EUDNK
+42,Senegal,AFSEN
+43,Sudan,AFSDN
+44,Sweden,EUSWE
+45,Western Sahara,AFESH
+46,Somalia,AFSOM
+47,China,ASCHN
+48,Iraq,ASIRQ
+49,Philippines,ASPHL
+50,Cameroon,AFCMR
+51,Holy See,EUVAT
+52,Congo,AFCOG
+53,Kuwait,ASKWT
+54,British Indian Ocean Territory,ASIOT
+55,Morocco,AFMAR
+57,Saudi Arabia,ASSAU
+58,United Kingdom of Great Britain and Northern Ireland,EUGBR
+59,Norway,EUNOR
+60,Austria,EUAUT
+61,Niger,AFNER
+62,India,ASIND
+64,Japan,ASJPN
+65,Yemen,ASYEM
+66,Greece,EUGRC
+67,Papua New Guinea,OCPNG
+68,Paraguay,SAPRY
+69,Pakistan,ASPAK
+70,Palau,OCPLW
+73,Brunei Darussalam,ASBRN
+74,Belgium,EUBEL
+75,Bulgaria,EUBGR
+77,Bangladesh,ASBGD
+79,Benin,AFBEN
+80,Bhutan,ASBTN
+81,Botswana,AFBWA
+83,Burkina Faso,AFBFA
+84,Burundi,AFBDI
+85,Poland,EUPOL
+86,Bolivia (Plurinational State of),SABOL
+87,French Polynesia,OCPYF
+89,Pitcairn,OCPCN
+90,Peru,SAPER
+91,Belarus,EUBLR
+92,Thailand,ASTHA
+93,Turkmenistan,ASTKM
+94,Turkey,ASTUR
+96,Chad,AFTCD
+97,Czechia,EUCZE
+98,Togo,AFTGO
+99,Tuvalu,OCTUV
+100,Tokelau,OCTKL
+101,Tunisia,AFTUN
+102,Tonga,OCTON
+103,Timor-Leste,OCTLS
+105,Gibraltar,EUGIB
+106,Åland Islands,EUALA
+108,Comoros,AFCOM
+110,Svalbard and Jan Mayen Islands,EUSJM
+111,Solomon Islands,OCSLB
+112,Faroe Islands,EUFRO
+115,Falkland Islands (Malvinas),SAFLK
+117,Cook Islands,OCCOK
+118,Cocos (Keeling) Islands,ASCCK
+119,Marshall Islands,OCMHL
+120,Northern Mariana Islands,OCMNP
+121,Wallis and Futuna Islands,OCWLF
+122,Bouvet Island,ANBVT
+123,Christmas Island,ASCXR
+124,Isle of Man,EUIMN
+125,Mayotte,AFMYT
+126,Norfolk Island,OCNFK
+127,Heard Island and McDonald Islands,ANHMD
+128,Central African Republic,AFCAF
+129,Democratic Republic of the Congo,AFCOD
+130,United Republic of Tanzania,AFTZA
+131,Republic of Korea,ASKOR
+132,Democratic People's Republic of Korea,ASPRK
+133,Lao People's Democratic Republic,ASLAO
+134,The former Yugoslav Republic of Macedonia,EUMKD
+135,Republic of Moldova,EUMDA
+136,South Africa,AFZAF
+137,South Sudan,AFSSD
+138,Georgia,ASGEO
+139,South Georgia and the South Sandwich Islands,ANSGS
+140,Djibouti,AFDJI
+141,Jersey,EUJEY
+142,State of Palestine,ASPSE
+144,Rwanda,AFRWA
+145,Romania,EUROU
+146,Réunion,AFREU
+147,Zambia,AFZMB
+148,Zimbabwe,AFZWE
+150,Samoa,OCWSM
+151,American Samoa,OCASM
+154,Sao Tome and Principe,AFSTP
+156,San Marino,EUSMR
+161,Saint Helena,AFSHN
+162,Sri Lanka,ASLKA
+163,Slovakia,EUSVK
+164,Slovenia,EUSVN
+165,Singapore,ASSGP
+166,Swaziland,AFSWZ
+167,Suriname,SASUR
+168,Switzerland,EUCHE
+169,Sierra Leone,AFSLE
+170,Seychelles,AFSYC
+171,Chile,SACHL
+172,Serbia,EUSRB
+173,Tajikistan,ASTJK
+174,Oman,ASOMN
+175,Gabon,AFGAB
+176,Gambia,AFGMB
+177,Ghana,AFGHA
+182,Guam,OCGUM
+183,Guyana,SAGUY
+184,French Guiana,SAGUF
+185,Guernsey,EUGGY
+186,Guinea,AFGIN
+187,Guinea-Bissau,AFGNB
+188,Equatorial Guinea,AFGNQ
+189,Vanuatu,OCVUT
+190,France,EUFRA
+191,Venezuela (Bolivarian Republic of),SAVEN
+192,Finland,EUFIN
+193,Fiji,OCFJI
+194,Viet Nam,ASVNM
+195,Cyprus,EUCYP
+196,Qatar,ASQAT
+197,Kyrgyzstan,ASKGZ
+198,Cabo Verde,AFCPV
+199,Kazakhstan,ASKAZ
+200,New Caledonia,OCNCL
+201,Croatia,EUHRV
+202,Cambodia,ASKHM
+205,Côte d'Ivoire,AFCIV
+208,Colombia,SACOL
+209,Kiribati,OCKIR
+210,Kenya,AFKEN
+211,Latvia,EULVA
+212,Lebanon,ASLBN
+213,Luxembourg,EULUX
+214,Liberia,AFLBR
+215,Libya,AFLBY
+216,Lithuania,EULTU
+217,Liechtenstein,EULIE
+218,Lesotho,AFLSO
+220,Malta,EUMLT
+221,Mali,AFMLI
+222,Malaysia,ASMYS
+223,Madagascar,AFMDG
+224,Egypt,AFEGY
+225,Malawi,AFMWI
+226,Maldives,ASMDV
+227,"China, Macao Special Administrative Region",ASMAC
+228,"China, Hong Kong Special Administrative Region",ASHKG
+229,Mongolia,ASMNG
+230,Mauritania,AFMRT
+231,Mauritius,AFMUS
+232,Mozambique,AFMOZ
+233,Monaco,EUMCO
+235,Myanmar,ASMMR
+236,Micronesia (Federated States of),OCFSM
+237,United States Minor Outlying Islands,OCUMI
+238,Namibia,AFNAM
+239,Nauru,OCNRU
+240,Nepal,ASNPL
+241,Nigeria,AFNGA
+243,New Zealand,OCNZL
+244,Niue,OCNIU
+247,Hungary,EUHUN
+248,Netherlands,EUNLD

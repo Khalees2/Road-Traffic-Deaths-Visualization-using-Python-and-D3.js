@@ -1,0 +1,58 @@
+<!doctype html>
+<head>
+  <title>CA682-Assignment</title>
+</head>
+<meta charset="utf-8">
+
+<!-- loading D3js -->
+<script src="//d3plus.org/js/d3.js"></script>
+
+<!-- loading topojson library -->
+<script src="//d3plus.org/js/topojson.js"></script>
+
+<!-- loading D3plus after D3js -->
+<script src="//d3plus.org/js/d3plus.js"></script>
+
+<!-- creating container element -->
+<div id="viz"></div>
+<body>
+
+<script>
+
+// Load the data in csv format
+
+d3.csv("rankingV2.csv", function(error, data1) {
+  
+  console.log(data1);
+  if (error) return console.error(error);
+});
+
+
+// To display if any errors, in a browser
+
+d3.csv("rankingV2.csv", function(error, data1) {
+  if (error) return console.error(error);
+  make_viz(data1);
+});
+
+// instantiate d3plus function to make visualization
+
+  function make_viz(data){
+  var visualization = d3plus.viz()
+    .zoom(100)                  //to zoom in specific country
+    .container("#viz")     // container DIV to hold the visualization
+    .data(data)              // data to use with the visualization
+    .coords("http://d3plus.org/topojson/countries.json") // pass topojson coordinates
+    .type("geo_map")        //   visualization type
+    .id("code")        //  key for which our data is unique on
+    .text("Country")         // to display country names
+    .color("code")       // key for coloring countries
+    .tooltip(["Four-Wheelers","Two-Wheelers","Cyclists","Pedestrians","Others","Four_Wheelers_Rank","Two_Wheelers_Rank","Cyclists_Rank","Pedestrians_Rank","Others_Rank","Estimated road traffic death rate per 100000 population"])   // Array of key(data collumns) place in tooltip
+    .title("Road Traffic Death by the type of User in 2013") //Title      
+    .height(595)               // to set the height
+    .draw()                   // Draws the visualization 
+}
+
+</script>
+
+</body>

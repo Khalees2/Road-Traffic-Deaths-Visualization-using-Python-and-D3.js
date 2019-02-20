@@ -1,0 +1,55 @@
+<!doctype html>
+<head>
+  <title>CA682 Assignment</title>
+</head>
+<meta charset="utf-8">
+
+<!-- load D3js -->
+<script src="//d3plus.org/js/d3.js"></script>
+
+<!-- load topojson library -->
+<script src="//d3plus.org/js/topojson.js"></script>
+
+<!-- load D3plus after D3js -->
+<script src="//d3plus.org/js/d3plus.js"></script>
+
+<!-- create container element for visualization -->
+<div id="viz"></div>
+<body>
+
+<script>
+d3.select("body").append("h1");
+// Load the data in csv format
+
+d3.csv("mergedRoadTrafficDeathV1.csv", function(error, data1) {
+  
+  console.log(data1);
+  if (error) return console.error(error);
+});
+
+
+// To display if any errors, in a browser
+
+d3.csv("mergedRoadTrafficDeathV1.csv", function(error, data1) {
+  if (error) return console.error(error);
+  make_viz(data1);
+});
+
+// instantiate d3plus function to make visualization
+
+  function make_viz(data){
+  new d3plus.BarChart()
+  .data(data)
+  .stacked(true)
+  .id("code")
+  .x("code")
+  .y(["Four-Wheelers","Two-Wheelers","Cyclists","Pedestrians","Others"])
+  .render();                  // Draws the visualization 
+}
+
+
+
+
+</script>
+
+</body>
